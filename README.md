@@ -3,7 +3,7 @@ Rails Course
 
 ### Como utilizar esse tutorial
 
-Olá Aluno! Como está? Esse curso tem como objetivo ensinar um aluno os concentios e práticas em Rails para que ele possa desenvolver uma aplicação dentro da CJR. Para usar esse curso, crie um [fork](https://github.com/unb-cjr/rails_course#fork-destination-box) desse repositório e segui os passos para o conhecimento.
+Olá Aluno! Como está? Esse curso tem como objetivo ensinar um aluno os concentios e práticas em Rails para que ele possa desenvolver uma aplicação dentro da CJR. Para usar esse curso, crie um fork desse repositório e segui os passos para o conhecimento.
 
 ### Objetivo
 
@@ -15,7 +15,7 @@ Criar alunos **competentes** em Rails
 
 + Git
 + Editor de Texto
-+ [ruby_course](http://github.com/unb-cjr/ruby_course)
++ [Curso de Ruby da CJR](http://github.com/unb-cjr/ruby_course) ou conhecimentos competentes em Ruby.
 + Inglês
 + Ruby
 + RVM
@@ -29,17 +29,18 @@ Criar alunos **competentes** em Rails
 
 ##### O que você vai aprender
 
-Nesse nível o aluno irá aprender os conceitos básicos que são necessários para utilizar o framework Rails.
+Nessa lição o aluno irá aprender os conceitos básicos que são necessários para utilizar o framework Rails.
 
 ##### Exercícios
 
-Vá para esse [exercício](http://github.com/unb-cjr/rails_course/lesson_1/exercise_1) para descobrir os principais conceitos de Rails.
+Vá para esse [exercício](http://github.com/unb-cjr/rails_course/lesson_1/exercise_1) (lesson_1/exercise_1.md) para descobrir os principais conceitos de Rails.
 
-Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started.html) para criar sua primeira aplicação em Rails. Lembre-se de versiona-la periodicamente.
+Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started.html) para criar sua primeira aplicação em Rails. Lembre-se de versiona-la periodicamente na pasta (lesson_1/getting_started_with_rails).
 
 ### Lesson 2
 
-> Súmario
+Nessa lição você irá aprender práticas mais avançadas do Rails.
+Mas antes, vamos fazer alguma revisão junto com alguns novos conceitos. Acesse esse arquivo (leason_2/exercise_1.md) e responda as perguntas.
 
 ### Lesson 3
 
@@ -67,3 +68,4 @@ Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started
 + Como dar push no heroku
 + Arquivo de comandos úteis e o que eles fazem
 + Strong Params
++ TODO: explicar ou automatizar o processo de criar um fork
