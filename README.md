@@ -18,10 +18,36 @@ Criar alunos **competentes** em Rails
 + Ruby
 + RVM
 
-##### Instalando o Rails
+### Ememta
 
-+ [Rails Girls](http://guides.railsgirls.com/install/)
-+ [Install Rails](http://installrails.com/)
++ Como configurar um Ambiente Rails
++ Protocolo HTTP
++ Como criar um Scalfold
++ Comandos úteis e o que eles fazem
+	+ rails new
+	+ rake db:create
+	+ rake db:migrate
+	+ rake db:seed
+	+ rake db:setup
+	+ rails s
+	+ rails c
+	+ rake assets:precompile
++ Asset Pipeline
++ Como criar um Model
++ Como criar um Controller
++ Como criar uma View (erb ou slim)
++ Strong Params
++ Como criar uma Validação no Model
++ Como criar uma Rota
++ Como criar uma Migração
++ Como usar o Bootstrap
++ Como usar a Gem Devise
++ Como usar a Gem CanCanCan
++ Como dar push no Heroku
+
+### Como configurar um Ambiente Rails
+
+Vá para `/ambiente.md` e prepare um ambiente em rails.
 
 ### Lesson 1
 
@@ -49,28 +75,3 @@ Mas antes, vamos fazer alguma revisão junto com alguns novos conceitos. Acesse 
 + [Ruby Guides](http://guides.rubyonrails.org/)
 + [Michael Hartl](https://www.railstutorial.org/book)
 + [Thinkful](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
-
-### Ememta
-
-+ Como usar a gem Devise
-+ Como usar a gem CanCanCan
-+ Como criar um scalfold
-+ Como criar um model
-+ Como criar um controller
-+ Como criar uma view (erb ou slim)
-+ Como criar uma validação no model
-+ Como criar uma rota
-+ Como criar uma migração
-+ Como usar o bootstrap
-+ protocolo HTTP
-+ Como dar push no heroku
-+ Arquivo de comandos úteis e o que eles fazem
-	+ rails new
-	+ rake db:create
-	+ rake db:migrate
-	+ rake db:seed
-	+ rake db:setup
-	+ rails s
-	+ rails c
-	+ rake assets:precompile
-+ Strong Params
