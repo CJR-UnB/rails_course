@@ -9,8 +9,6 @@ Olá Aluno! Como está? Esse curso tem como objetivo ensinar um aluno os concent
 
 Criar alunos **competentes** em Rails
 
-###
-
 ### Nível 0 - Pré-requisitos e Preparando o ambiente
 
 + Git
@@ -35,12 +33,12 @@ Nessa lição o aluno irá aprender os conceitos básicos que são necessários 
 
 Vá para esse [exercício](http://github.com/unb-cjr/rails_course/lesson_1/exercise_1) (lesson_1/exercise_1.md) para descobrir os principais conceitos de Rails.
 
-Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started.html) para criar sua primeira aplicação em Rails. Lembre-se de versiona-la periodicamente na pasta (lesson_1/getting_started_with_rails).
+Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started.html) para criar sua primeira aplicação em Rails. Lembre-se de versiona-la periodicamente na pasta `lesson_1/getting_started_with_rails`.
 
 ### Lesson 2
 
 Nessa lição você irá aprender práticas mais avançadas do Rails.
-Mas antes, vamos fazer alguma revisão junto com alguns novos conceitos. Acesse esse arquivo (leason_2/exercise_1.md) e responda as perguntas.
+Mas antes, vamos fazer alguma revisão junto com alguns novos conceitos. Acesse esse arquivo `leason_2/exercise_1.md` e responda as perguntas.
 
 ### Lesson 3
 
@@ -52,10 +50,10 @@ Mas antes, vamos fazer alguma revisão junto com alguns novos conceitos. Acesse 
 + [Michael Hartl](https://www.railstutorial.org/book)
 + [Thinkful](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
 
-### O que adicionar nesse curso
+### Ememta
 
-+ Como usar a Devise
-+ Como usar a CanCanCan
++ Como usar a gem Devise
++ Como usar a gem CanCanCan
 + Como criar um scalfold
 + Como criar um model
 + Como criar um controller
@@ -64,8 +62,15 @@ Mas antes, vamos fazer alguma revisão junto com alguns novos conceitos. Acesse 
 + Como criar uma rota
 + Como criar uma migração
 + Como usar o bootstrap
-+ HTTP
++ protocolo HTTP
 + Como dar push no heroku
 + Arquivo de comandos úteis e o que eles fazem
+	+ rails new
+	+ rake db:create
+	+ rake db:migrate
+	+ rake db:seed
+	+ rake db:setup
+	+ rails s
+	+ rails c
+	+ rake assets:precompile
 + Strong Params
-+ TODO: explicar ou automatizar o processo de criar um fork
