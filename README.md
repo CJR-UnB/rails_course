@@ -18,7 +18,7 @@ Criar alunos **competentes** em Rails
 + Ruby
 + RVM
 
-### Ememta
+### Ementa
 
 + Como configurar um Ambiente Rails
 + Protocolo HTTP
@@ -44,10 +44,16 @@ Criar alunos **competentes** em Rails
 + Como usar a Gem Devise
 + Como usar a Gem CanCanCan
 + Como dar push no Heroku
++ Como criar um teste de unidade com RSpec
++ Como criar um teste de integração com Capybara
 
 ### Como configurar um Ambiente Rails
 
 Vá para `/ambiente.md` e prepare um ambiente em rails.
+
+### Protócolo HTTP:
+
+Acesse esse [link](https://nandovieira.com.br/entendendo-um-pouco-mais-sobre-o-protocolo-http).
 
 ### Lesson 1
 
@@ -57,21 +63,16 @@ Nessa lição o aluno irá aprender os conceitos básicos que são necessários 
 
 ##### Exercícios
 
-Vá para esse [exercício](http://github.com/unb-cjr/rails_course/lesson_1/exercise_1) (lesson_1/exercise_1.md) para descobrir os principais conceitos de Rails.
+Vá para esse [exercício](http://github.com/unb-cjr/rails_course/lesson_1/exercise_1) `exercise_1.md` para descobrir os principais conceitos de Rails.
 
-Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started.html) para criar sua primeira aplicação em Rails. Lembre-se de versiona-la periodicamente na pasta `lesson_1/getting_started_with_rails`.
-
-### Lesson 2
-
-Nessa lição você irá aprender práticas mais avançadas do Rails.
-Mas antes, vamos fazer alguma revisão junto com alguns novos conceitos. Acesse esse arquivo `leason_2/exercise_1.md` e responda as perguntas.
-
-### Lesson 3
-
-> Súmario
+Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started.html) para criar sua primeira aplicação em Rails. Lembre-se de versiona-la periodicamente na pasta `apps`.
 
 ### Bibliografia
 
 + [Ruby Guides](http://guides.rubyonrails.org/)
 + [Michael Hartl](https://www.railstutorial.org/book)
 + [Thinkful](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
+
+### Melhorias
+
++ Fazer um questionário sobre HTTP relacionado com rails.
