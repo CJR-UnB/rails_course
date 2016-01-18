@@ -31,14 +31,6 @@ Criar alunos **competentes** em Rails
 + Protocolo HTTP
 + Como criar um Scalfold
 + Comandos úteis e o que eles fazem
-	+ rails new
-	+ rake db:create
-	+ rake db:migrate
-	+ rake db:seed
-	+ rake db:setup
-	+ rails s
-	+ rails c
-	+ rake assets:precompile
 + Asset Pipeline
 + Como criar um Model
 + Como criar um Controller
@@ -83,7 +75,13 @@ Com a gem adicionada corretamente, procure adicionar em todas as páginas (views
 + estilizar suas tabelas.
 + estilizar suas mensagens
 
+Agora vamos colocar nossa aplicação no ar. Acesse o [heroku](http://heroku.com) e crie uma conta. Siga esse [tutorial](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 
+Finalizando, você já sabe como colocar uma aplicação rails no servidor heroku.
+
+A partir de agora, você vai se aprofundar nos conhecimentos de Rails.
+
+Caso tenha alguma dúvida quanto aos comandos que estão disponíveis, acesse o arquivo `commands.md` para ver uma lista rápido de comandos que rails oferece.
 
 ### Bibliografia
 
