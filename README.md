@@ -74,6 +74,17 @@ Vá para esse [exercício](http://github.com/unb-cjr/rails_course/lesson_1/exerc
 
 Agora acesse o seguinte [tutorial](http://guides.rubyonrails.org/getting_started.html) para criar sua primeira aplicação em Rails. Lembre-se de versiona-la periodicamente na pasta `apps`.
 
+Temos nossa primeira aplicação. Porém ela ainda não é muito utilizável para o nosso usuário final. Que tal adicionarmos um framework de CSS/Javascript? Siga esse [link](https://github.com/twbs/bootstrap-sass) para colocar a gem corretamente na sua aplicação.
+
+Com a gem adicionada corretamente, procure adicionar em todas as páginas (views)que você fez as seguintes classes de CSS:
+
++ `.container` para deixar o conteúdo no centro da página.
++ `.btn` para butões bonitos.
++ estilizar suas tabelas.
++ estilizar suas mensagens
+
+
+
 ### Bibliografia
 
 + [Ruby Guides](http://guides.rubyonrails.org/)
