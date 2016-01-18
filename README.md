@@ -83,6 +83,22 @@ A partir de agora, você vai se aprofundar nos conhecimentos de Rails.
 
 Caso tenha alguma dúvida quanto aos comandos que estão disponíveis, acesse o arquivo `commands.md` para ver uma lista rápido de comandos que rails oferece.
 
+Agora você será guiado a vários tutoriais com o tempo médio de cada um.
+
++ [https://www.railstutorial.org/book/frontmatter](https://www.railstutorial.org/book/frontmatter) 2 semanas
++ [http://tutorials.jumpstartlab.com/projects/contact_manager.html](http://tutorials.jumpstartlab.com/projects/contact_manager.html) 4 dias
++ [http://tutorials.jumpstartlab.com/projects/merchant.html#iteration-1:-basic-product-listings](http://tutorials.jumpstartlab.com/projects/merchant.html#iteration-1:-basic-product-listings) 1 semana
++ [https://www.youtube.com/channel/UCI7E0Jlf4CGk2z9RMsd_aVw/videos](https://www.youtube.com/channel/UCI7E0Jlf4CGk2z9RMsd_aVw/videos) 4 dias
++ [http://tutorials.jumpstartlab.com/topics/auth/local_authentication.html](http://tutorials.jumpstartlab.com/topics/auth/local_authentication.html)
+
+Opcionais:
+
++ Alguns tópicos desse link já foram passados mas ainda tem muito conhecimento aqui: [http://tutorials.jumpstartlab.com/paths/advanced_rails_five_day.html](http://tutorials.jumpstartlab.com/paths/advanced_rails_five_day.html) 10 dias
+
+### Trabalho final
+
+Como trabalho final, vocês tem que apresentar um sistema X funcionando no Heroku usando Bootstrap.
+
 ### Bibliografia
 
 + [Ruby Guides](http://guides.rubyonrails.org/)
