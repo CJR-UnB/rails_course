@@ -97,7 +97,7 @@ Opcionais:
 
 ### Trabalho final
 
-Como trabalho final, vocês tem que apresentar um sistema X funcionando no Heroku usando Bootstrap.
+Como trabalho final, vocês tem que apresentar um sistema que controla pedidos de restaurantes funcionando no Heroku usando Bootstrap. Acesse o [link](http://tutorials.jumpstartlab.com/projects/dinner_dash.html) para saber o que sua aplicação deve funcionar.
 
 ### Bibliografia
 
